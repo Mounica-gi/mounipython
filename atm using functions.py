@@ -55,9 +55,11 @@ if name=="mouni" and pin==468:
     atm()
 else:
      print("check your details:")
+    print("enter your current detials")
     
 
 
 
     
+
         
